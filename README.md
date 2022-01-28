@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @starshore
 - 👀 I’m interested in high performance computing.
-- 🌱 I’m currently learning c++ templates and operating system architecture.
+- 🌱 I’m currently learning 'Design pattern', 'C++ Templates', 'Operating System Architecture'
 
 <!---
 starshore/starshore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
